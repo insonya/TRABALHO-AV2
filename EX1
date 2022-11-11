@@ -1,0 +1,8 @@
+B = float (input('Entre com o valor da Base Maior: '))
+b = float (input('Entre com o valor da Base menor: '))
+h = float (input ('Entre com o valor da Altura: '))
+a = 2
+
+formula = ((B + b) * h) / a
+
+print ('A Área do Trapézio é: ', formula)
